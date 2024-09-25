@@ -5,7 +5,7 @@
 ###  ROLL NO :212223040107
 ###  DEPARTMENT: CSE
 
-# EXPERIMENT--04-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
+# EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool, Serial port utility tool 
 ## Theory 
@@ -305,7 +305,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of Serial port utility   :
  
- ![Screenshot 2024-09-18 113219](https://github.com/user-attachments/assets/672540b6-11b3-48a8-9128-e4a48ca25e08)
+![Screenshot 2024-09-18 113219](https://github.com/user-attachments/assets/5ebd943e-b2db-4468-b8b7-9a5ac5fe25e8)
 
  
  
